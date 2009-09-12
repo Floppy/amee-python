@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+AMEE.egg-info/PKG-INFO
+AMEE.egg-info/SOURCES.txt
+AMEE.egg-info/dependency_links.txt
+AMEE.egg-info/entry_points.txt
+AMEE.egg-info/top_level.txt
+AMEE.egg-info/zip-safe
+amee/__init__.py
+amee/amee.py

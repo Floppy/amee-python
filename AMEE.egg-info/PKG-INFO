@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: AMEE
+Version: 0.1dev
+Summary: A python egg for accessing the AMEE carbon calculator
+Home-page: http://www.amee.com
+Author: James Smith
+Author-email: james@amee.cc
+License: MIT
+Description: UNKNOWN
+Keywords: amee carbon
+Platform: UNKNOWN
